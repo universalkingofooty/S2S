@@ -1,0 +1,101 @@
+.nav-link{
+    color:white;
+    
+}
+*{
+    font-family: "Rubik";
+}
+
+.navbar-nav{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 45%;
+}
+
+.nav-items{
+    padding-left: 50px;
+    font-size: larger;
+}
+
+nav div ul li{
+    padding-left: 35px;
+}    
+/* nav div ul button{
+    /* margin-l 
+    
+    height: auto;
+} */
+
+#dnt-btn{
+    margin-left: 20px;
+    padding-left: 30px;
+
+    padding-top: 5  px;
+    padding-bottom: 5px;
+    padding-right: 30px;
+
+    background-color:#fb8b01;
+}
+
+.h1{
+    color: white;   
+    justify-content: center;
+    text-align: center;
+    margin-top:35% ;
+}
+p{
+    color: rgb(214, 208, 208);
+}
+/* .hero-txt{
+    background-color:black;
+    opacity: 0.50;
+} */
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-right: 1px;
+    margin-left: 15%;
+    color: white;
+    padding-left: 4%;
+    padding-right: 4%;
+
+  }
+
+  .buttons {
+    display: flex;
+    justify-content: center;
+  }
+
+  .btn-donate {
+    background-color:#fb8b01;
+    color: #fff;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-left: 4%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%; 
+    border: none;  
+    border-radius: 5px;
+  }
+
+  .btn-volunteer {
+    background-color: #0b704e;
+    color:#fff;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    border: none ;
+    border-radius: 5px;
+}
+#home_txt{
+   backdrop-filter: blur(8px);
+   padding-bottom: 2%;
+   border-radius: 5px;
+  
+   /* background-color: black; */
+}
