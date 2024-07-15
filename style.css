@@ -36,6 +36,12 @@ nav div ul li{
 
     background-color:#fb8b01;
 }
+/* #dnt-btn:hover{
+    cursor:pointer ;
+    background-color: transparent;
+    color: #fb8b01;
+    border: #fb8b01;
+} */
 
 .h1{
     color: white;   
@@ -63,6 +69,12 @@ p{
     padding-left: 4%;
     padding-right: 4%;
 
+
+  }
+  .btn:hover{
+    background-color: white;
+    outline: #fb8b01;
+    color: #fb8b01;
   }
 
   .buttons {
@@ -96,6 +108,29 @@ p{
    backdrop-filter: blur(8px);
    padding-bottom: 2%;
    border-radius: 5px;
+   margin-top:-55%;
   
-   /* background-color: black; */
+   /* backgr
+   ound-color: black; */
 }
+
+#about{
+    margin-top: 20%;
+}
+
+#about-btn{
+    background-color: #fb8b01;
+    color: white;
+}
+#border{
+    border-color: #fb8b01;
+}
+
+div .border-bottom{
+    border-color: #fb8b01;
+}
+
+#our-mission{
+    margin-top: 50%;
+}
+
