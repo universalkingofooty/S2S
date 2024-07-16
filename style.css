@@ -3,7 +3,7 @@
     
 }
 *{
-    font-family: "Rubik";
+    font-family: "Quicksand", sans-serif;
 }
 
 .navbar-nav{
@@ -72,9 +72,9 @@ p{
 
   }
   .btn:hover{
-    background-color: white;
+    background-color:transparent;
     outline: #fb8b01;
-    color: #fb8b01;
+    /* color: #fb8b01; */
   }
 
   .buttons {
@@ -106,6 +106,7 @@ p{
 }
 #home_txt{
    backdrop-filter: blur(8px);
+  
    padding-bottom: 2%;
    border-radius: 5px;
    margin-top:-55%;
@@ -133,4 +134,12 @@ div .border-bottom{
 #our-mission{
     margin-top: 40%;
 }
-
+.btn-donate:hover{
+    background-color: white;
+    color: #fb8b01;
+    transition: ease-in-out;
+    transition-duration: 0.35s;
+}
+#our-mission-2{
+    margin-top: 3%;
+}
